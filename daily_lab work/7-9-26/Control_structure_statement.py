@@ -1,4 +1,4 @@
-'''
+
 #1.
 print("find max number among in three")
 
@@ -157,7 +157,7 @@ match choice:
     case _:
         print("Invalid choice...!")
 
-'''
+
 #6.
         
 print("\n\nmenu-drivem program for telecome calling system using match case.")
