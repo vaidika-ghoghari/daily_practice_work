@@ -1,0 +1,345 @@
+[
+  {
+    "student_id":"S001",
+    "name":"Avery Morgan",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Computer Science"
+  },
+  {
+    "student_id":"S002",
+    "name":"Jordan Lee",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"Biology"
+  },
+  {
+    "student_id":"S003",
+    "name":"Casey Patel",
+    "age":20,
+    "grade":"Junior",
+    "major":"Mathematics"
+  },
+  {
+    "student_id":"S004",
+    "name":"Riley Chen",
+    "age":21,
+    "grade":"Senior",
+    "major":"History"
+  },
+  {
+    "student_id":"S005",
+    "name":"Taylor Brooks",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Physics"
+  },
+  {
+    "student_id":"S006",
+    "name":"Morgan Diaz",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"English"
+  },
+  {
+    "student_id":"S007",
+    "name":"Jamie Kim",
+    "age":20,
+    "grade":"Junior",
+    "major":"Chemistry"
+  },
+  {
+    "student_id":"S008",
+    "name":"Quinn Rivera",
+    "age":21,
+    "grade":"Senior",
+    "major":"Economics"
+  },
+  {
+    "student_id":"S009",
+    "name":"Alex Parker",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Psychology"
+  },
+  {
+    "student_id":"S010",
+    "name":"Emery Singh",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"Art"
+  },
+  {
+    "student_id":"S011",
+    "name":"Rowan Clark",
+    "age":20,
+    "grade":"Junior",
+    "major":"Computer Science"
+  },
+  {
+    "student_id":"S012",
+    "name":"Drew Nguyen",
+    "age":21,
+    "grade":"Senior",
+    "major":"Biology"
+  },
+  {
+    "student_id":"S013",
+    "name":"Reese Adams",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Mathematics"
+  },
+  {
+    "student_id":"S014",
+    "name":"Blake Wilson",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"History"
+  },
+  {
+    "student_id":"S015",
+    "name":"Skyler Evans",
+    "age":20,
+    "grade":"Junior",
+    "major":"Physics"
+  },
+  {
+    "student_id":"S016",
+    "name":"Finley Moore",
+    "age":21,
+    "grade":"Senior",
+    "major":"English"
+  },
+  {
+    "student_id":"S017",
+    "name":"Harper Scott",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Chemistry"
+  },
+  {
+    "student_id":"S018",
+    "name":"Logan Bell",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"Economics"
+  },
+  {
+    "student_id":"S019",
+    "name":"Peyton Ward",
+    "age":20,
+    "grade":"Junior",
+    "major":"Psychology"
+  },
+  {
+    "student_id":"S020",
+    "name":"Charlie Young",
+    "age":21,
+    "grade":"Senior",
+    "major":"Art"
+  },
+  {
+    "student_id":"S021",
+    "name":"Sam Turner",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Computer Science"
+  },
+  {
+    "student_id":"S022",
+    "name":"Kendall Hall",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"Biology"
+  },
+  {
+    "student_id":"S023",
+    "name":"Robin Allen",
+    "age":20,
+    "grade":"Junior",
+    "major":"Mathematics"
+  },
+  {
+    "student_id":"S024",
+    "name":"Dakota Wright",
+    "age":21,
+    "grade":"Senior",
+    "major":"History"
+  },
+  {
+    "student_id":"S025",
+    "name":"Micah Green",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Physics"
+  },
+  {
+    "student_id":"S026",
+    "name":"Arden Baker",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"English"
+  },
+  {
+    "student_id":"S027",
+    "name":"Shiloh Nelson",
+    "age":20,
+    "grade":"Junior",
+    "major":"Chemistry"
+  },
+  {
+    "student_id":"S028",
+    "name":"Remy Carter",
+    "age":21,
+    "grade":"Senior",
+    "major":"Economics"
+  },
+  {
+    "student_id":"S029",
+    "name":"Noah Mitchell",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Psychology"
+  },
+  {
+    "student_id":"S030",
+    "name":"Ellis Perez",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"Art"
+  },
+  {
+    "student_id":"S031",
+    "name":"Payton Roberts",
+    "age":20,
+    "grade":"Junior",
+    "major":"Computer Science"
+  },
+  {
+    "student_id":"S032",
+    "name":"Frankie Phillips",
+    "age":21,
+    "grade":"Senior",
+    "major":"Biology"
+  },
+  {
+    "student_id":"S033",
+    "name":"Marley Campbell",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Mathematics"
+  },
+  {
+    "student_id":"S034",
+    "name":"Salem Parker",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"History"
+  },
+  {
+    "student_id":"S035",
+    "name":"August Collins",
+    "age":20,
+    "grade":"Junior",
+    "major":"Physics"
+  },
+  {
+    "student_id":"S036",
+    "name":"Leslie Stewart",
+    "age":21,
+    "grade":"Senior",
+    "major":"English"
+  },
+  {
+    "student_id":"S037",
+    "name":"Adrian Morris",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Chemistry"
+  },
+  {
+    "student_id":"S038",
+    "name":"Chris Rogers",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"Economics"
+  },
+  {
+    "student_id":"S039",
+    "name":"Reagan Reed",
+    "age":20,
+    "grade":"Junior",
+    "major":"Psychology"
+  },
+  {
+    "student_id":"S040",
+    "name":"Shawn Cook",
+    "age":21,
+    "grade":"Senior",
+    "major":"Art"
+  },
+  {
+    "student_id":"S041",
+    "name":"Devon Bailey",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Computer Science"
+  },
+  {
+    "student_id":"S042",
+    "name":"Jules Cooper",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"Biology"
+  },
+  {
+    "student_id":"S043",
+    "name":"Marin Richardson",
+    "age":20,
+    "grade":"Junior",
+    "major":"Mathematics"
+  },
+  {
+    "student_id":"S044",
+    "name":"Briar Cox",
+    "age":21,
+    "grade":"Senior",
+    "major":"History"
+  },
+  {
+    "student_id":"S045",
+    "name":"Corey Howard",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Physics"
+  },
+  {
+    "student_id":"S046",
+    "name":"Indigo Ward",
+    "age":19,
+    "grade":"Sophomore",
+    "major":"English"
+  },
+  {
+    "student_id":"S047",
+    "name":"Lee Torres",
+    "age":20,
+    "grade":"Junior",
+    "major":"Chemistry"
+  },
+  {
+    "student_id":"S048",
+    "name":"Val Ellis",
+    "age":21,
+    "grade":"Senior",
+    "major":"Economics"
+  },
+  {
+    "student_id":"S049",
+    "name":"Kit Brooks",
+    "age":18,
+    "grade":"Freshman",
+    "major":"Psychology"
+  }
+]
